@@ -1,0 +1,7 @@
+ # spam SMS banh
+
+pkg update && pkg upgrade -y
+pkg install nano figlet toilet
+pkg install bash python python
+
+ 
